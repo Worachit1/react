@@ -1,0 +1,59 @@
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .profileSection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .imageWrapper {
+    margin-right: 20px;
+  }
+  
+  .image {
+    border-radius: 50%;
+  }
+  
+  .details {
+    max-width: 500px;
+  }
+  
+  
+  .details h1 {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .projects {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .btn {
+    background-color: #0070f3;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background-color: #005bb5;
+  }
+  
+  .link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
